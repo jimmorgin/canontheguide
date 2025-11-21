@@ -29,7 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "to Install, Download, and Reinstall Quicken on a New Computer: Step-by-Step Guide via Quicken.com"
+html_title = "Guide Canon TS3722 Printer Installation & Setup: How to Install Canon Printer TS3722, Connect Canon TS3722 to Computer, and Complete Canon PIXMA TS3722 Wireless Printer Setup Download"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
